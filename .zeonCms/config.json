@@ -1,0 +1,13 @@
+{
+  "media": {
+    "root": "content",
+    "public": "content"
+  },
+  "content": {
+    "root": "content"
+  },
+  "themeConfig": [
+    ".editorconfig"
+  ],
+  "arrangement": []
+}
